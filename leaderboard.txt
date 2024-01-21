@@ -1,0 +1,9 @@
+me:50
+dan:30
+John:10
+me:0
+sedar:0
+misse:0
+we:0
+wissam:-10
+karel:-50

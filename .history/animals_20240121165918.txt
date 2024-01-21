@@ -1,0 +1,70 @@
+Dog
+Cat
+Rabbit
+Horse
+Elephant
+Giraffe
+Lion
+Tiger
+Zebra
+Bear
+Eagle
+Parrot
+Owl
+Penguin
+Flamingo
+Peacock
+Duck
+Chicken
+Turkey
+Crow
+Snake
+Lizard
+Turtle
+Crocodile
+Alligator
+Gecko
+Iguana
+Chameleon
+Boa constrictor
+Komodo dragon
+Frog
+Toad
+Salamander
+Newt
+Axolotl
+Bullfrog
+Tree frog
+Poison dart frog
+Glass frog
+Hellbender
+Shark
+Clownfish
+Goldfish
+Tuna
+Salmon
+Betta fish
+Koi fish
+Angelfish
+Seahorse
+Moray eel
+Butterfly
+Bee
+Ant
+Mosquito
+Fly
+Beetle
+Spider
+Ladybug
+Grasshopper
+Cricket
+Scorpion
+Spider
+Tick
+Mite
+Brown recluse spider
+Black widow spider
+Wolf spider
+Tarantula
+Daddy longlegs
+Harvestman
